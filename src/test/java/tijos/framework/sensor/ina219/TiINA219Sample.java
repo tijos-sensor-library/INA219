@@ -4,7 +4,7 @@ import java.io.IOException;
 
 import tijos.framework.devicecenter.TiI2CMaster;
 import tijos.framework.sensor.ina219.TiINA219;
-import tijos.util.Delay;
+import tijos.framework.util.Delay;
 
 public class TiINA219Sample {
 

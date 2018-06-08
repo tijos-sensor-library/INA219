@@ -2,7 +2,7 @@ package tijos.framework.sensor.ina219;
 
 import java.io.IOException;
 import tijos.framework.devicecenter.TiI2CMaster;
-import tijos.util.BigBitConverter;
+import tijos.framework.util.BigBitConverter;
 
 /*Supply measurement chip (TI INA 219)
 http://www.ti.com/product/ina219
